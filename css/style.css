@@ -1,0 +1,51 @@
+.lastname {
+    color:#3185FC;
+    letter-spacing: 0.04em;
+    font-weight: 800;
+}
+
+.firstname {
+    text-transform: lowercase;
+    text-decoration-color: #3185FC;
+    text-decoration-line: underline;
+}
+
+.dev_role {
+    color: orange;
+}
+
+.left_div_section_header {
+    color: #3185FC;
+    background-color: #323241;
+    padding: 2%;
+    text-align: center;
+}
+
+.profile_img {
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+}
+
+.left_div {
+    float: left;
+    min-height: 100%;
+    width: 20%;
+    background-color: #3185FC;
+}
+
+.right_div {
+    float: right;
+    height: 100%;
+    width: 75%;
+}
+
+body {
+    line-height:1.1em;
+    font-family: Helvetica, Arial, sans-serif;
+    height: 100%;
+}
+
+html {
+    height: 100%;
+}
